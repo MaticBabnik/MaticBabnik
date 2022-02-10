@@ -1,10 +1,8 @@
-### Matic Babnik
-[🌍Website](https://me.yeet.si/)  
-[🎞️ sync.si - Watch content with your friends](https://weebify.me/)  
-[Nitter instance](https://ntr.sync.si)
+# Matic Babnik
+Umm... check out my stuff...
+<sub>please</sub>
 
-
-[![MaticBabnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaticBabnik&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaticBabnik&theme=radical)](https://github.com/MaticBabnik)
+- [🌍 Website](https://me.yeet.si/) - my personal website
+- [🎞️ sync.si](https://weebify.me/) - watch (youtube or "raw") videos with your friends
+- [🐦 Nitter instance](https://ntr.sync.si) - browse twitter without being tracked
+- [🗓️ Vegova timetable](https://v.sync.si) - an advanced timetable viewer for [Vegova](vegova.si)
